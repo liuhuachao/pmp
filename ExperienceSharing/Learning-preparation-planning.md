@@ -16,6 +16,9 @@
 不是必须的，但准备更利于复习，用途见下图，便于刺激大脑
 * 铅笔、橡皮、碳素笔
 * 三种颜色荧光笔
+
+
+![学习工具][学习笔记]
  
  
 ## 2.	学习计划
@@ -63,3 +66,5 @@
 
 版权所有：遇培双
 微信：15645102281
+
+[学习笔记]:https://github.com/liuhuachao/pmp/blob/master/ExperienceSharing/Images/Learning-preparation-planning-01.png  "学习工具"
