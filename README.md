@@ -26,7 +26,7 @@
 
 * 项目管理过程组与知识领域
 
-![项目管理过程组与知识领域](https://github.com/liuhuachao/pmp/blob/master/%E5%9B%BE%E8%A1%A8%E9%99%84%E5%BD%95/%E8%A1%A81-4%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%BF%87%E7%A8%8B%E7%BB%84%E4%B8%8E%E7%9F%A5%E8%AF%86%E9%A2%86%E5%9F%9F.png "项目管理过程组与知识领域")
+![项目管理过程组与知识领域](https://raw.github.com/liuhuachao/pmp/master/%E5%9B%BE%E8%A1%A8%E9%99%84%E5%BD%95/%E8%A1%A8%201-4%20%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%BF%87%E7%A8%8B%E7%BB%84%E4%B8%8E%E7%9F%A5%E8%AF%86%E9%A2%86%E5%9F%9F.png)
 
 ## 141种工具技术
 
