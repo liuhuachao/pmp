@@ -11,3 +11,5 @@
 PS:分数只显示在成绩单，不显示在证书上哦
 
 ![PMP 成绩单](https://raw.githubusercontent.com/liuhuachao/pmp/master/images/PMP%20%E6%88%90%E7%BB%A9%E5%8D%95.png)
+
+PMP考试目前在国内一年开展四次，分别在3、6、9、12月.PMP考试采用单项选择题形式，中英文对照，共计200题，其中25题（随机）只做测试用，不计成绩；在剩余的175题中，必须答对106道才能通过。
